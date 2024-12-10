@@ -1,1 +1,3 @@
 # Blockchain-Auction-System
+
+This Blockchain-Based Auction System is a decentralized platform designed to make auctions transparent, secure, and fair. Built on Ethereum, it uses smart contracts to manage the entire auction process, from submitting bids to selecting winners, without needing a central authority. The system ensures that all bids are recorded on the blockchain, preventing any tampering or manipulation. It also uses IPFS to securely store files related to auction items, such as descriptions or images. By combining blockchain and decentralized storage, this platform provides a reliable and efficient way to conduct auction
